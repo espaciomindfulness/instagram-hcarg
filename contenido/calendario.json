@@ -4,7 +4,7 @@
     {
       "id": "hc01-horas-administracion",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-08-19",
       "hora": "20:00",
       "caption": "Sumá las horas que te lleva la parte administrativa este mes.\n\nPasar sesiones al cuaderno. Facturar de a uno en ARCA. Acordarte quién te debe. Reprogramar turnos por WhatsApp.\n\nNinguna es difícil. El problema es que son todas, todos los meses, y ninguna es por lo que estudiaste 👉 deslizá.\n\nHC ARG junta historia clínica, agenda y facturación en un solo lugar. Lo construí porque lo necesitaba yo: soy psicólogo, no una empresa de software.\n\nProbalo gratis con dos pacientes — link en bio.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
@@ -15,7 +15,9 @@
         "hc01_horas_4.jpg",
         "hc01_horas_5.jpg",
         "hc01_horas_6.jpg"
-      ]
+      ],
+      "publicado_en": "2026-08-19T20:16:39-03:00",
+      "media_id": "18194165194377684"
     },
     {
       "id": "hc02-ficha-paciente",
