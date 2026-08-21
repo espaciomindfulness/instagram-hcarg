@@ -22,11 +22,13 @@
     {
       "id": "hc02-ficha-paciente",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-08-21",
       "hora": "09:00",
       "caption": "Toda la historia de un paciente en una pantalla.\n\nSesiones, adjuntos, consentimiento informado, honorarios y próximos turnos. Sin abrir tres carpetas ni buscar en el cuaderno del año pasado.\n\nY lo importante: está cifrado en tu computadora. No hay servidor de por medio, así que nadie —tampoco nosotros— puede leerlo.\n\nProbalo gratis con dos pacientes en hcarg.com.ar 🔒\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc02_ficha.jpg"
+      "archivo": "hc02_ficha.jpg",
+      "publicado_en": "2026-08-21T11:06:55-03:00",
+      "media_id": "17905784997307267"
     },
     {
       "id": "hc03-no-en-la-nube",
