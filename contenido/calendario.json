@@ -33,7 +33,7 @@
     {
       "id": "hc03-no-en-la-nube",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-08-23",
       "hora": "20:00",
       "caption": "¿Dónde están tus historias clínicas ahora mismo?\n\nSi usás un sistema en la nube, están en un servidor que no es tuyo. Y hay una pregunta que casi nadie hace: ¿quién tiene la llave para descifrarlas?\n\nPorque «cifrado» no siempre quiere decir privado. Si el proveedor guarda una copia de la clave, puede leer todo 👉 deslizá.\n\nEn HC ARG la clave se deriva de tu contraseña y no sale nunca de tu computadora. Es una decisión de arquitectura, no un eslogan: los detalles técnicos están publicados en la web.\n\nSecreto profesional de verdad 🔒\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
@@ -44,7 +44,9 @@
         "hc03_nube_4.jpg",
         "hc03_nube_5.jpg",
         "hc03_nube_6.jpg"
-      ]
+      ],
+      "publicado_en": "2026-08-23T20:48:23-03:00",
+      "media_id": "17963396844168850"
     },
     {
       "id": "hc04-domingo-facturando",
