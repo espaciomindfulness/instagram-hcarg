@@ -51,11 +51,13 @@
     {
       "id": "hc04-domingo-facturando",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-08-25",
       "hora": "09:00",
       "caption": "Domingo, 22:40.\n\nEl mes cerró el viernes y todavía estás entrando a ARCA de a un paciente por vez. Con esa sensación de fondo: «esto tendría que llevarme diez minutos».\n\nY podría.\n\nEn HC ARG emitís toda la facturación del mes de una sola vez, con el CAE, sin salir de la app. Probalo gratis — link en bio.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc04_domingo.jpg"
+      "archivo": "hc04_domingo.jpg",
+      "publicado_en": "2026-08-25T11:28:43-03:00",
+      "media_id": "17904207585518364"
     },
     {
       "id": "hc05-facturacion-arca",
