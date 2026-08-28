@@ -62,11 +62,13 @@
     {
       "id": "hc05-facturacion-arca",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-08-27",
       "hora": "20:00",
       "caption": "Facturación de todo el mes, en una pantalla.\n\nLa app junta las sesiones cobradas de cada paciente, arma la Factura C, se conecta con ARCA y trae el CAE. Vos seleccionás y emitís.\n\nSin entrar a la web de ARCA. Sin cargar los mismos datos dos veces. Sin la calculadora al lado.\n\nProbalo gratis con dos pacientes en hcarg.com.ar\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc05_arca.jpg"
+      "archivo": "hc05_arca.jpg",
+      "publicado_en": "2026-08-28T15:31:11-03:00",
+      "media_id": "18626589229037554"
     },
     {
       "id": "hc06-ley-26529",
