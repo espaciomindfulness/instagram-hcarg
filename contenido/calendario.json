@@ -73,7 +73,7 @@
     {
       "id": "hc06-ley-26529",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-08-29",
       "hora": "20:00",
       "caption": "La Ley 26.529, en criollo.\n\nCuatro cosas que quizás no tenías del todo presentes sobre las historias clínicas 👉 deslizá.\n\nLa más incómoda: la historia clínica es del paciente, vos sos el custodio. Puede pedirte una copia y tenés que dársela.\n\nY una aclaración honesta: ningún software te pone «en regla» por sí solo. El responsable seguís siendo vos. Lo que sí puede hacer es darte las herramientas —asientos sellados, rectificaciones con constancia, auditoría de accesos— para que cumplir no dependa de tu memoria.\n\nProbalo gratis — link en bio.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
@@ -84,7 +84,9 @@
         "hc06_ley_4.jpg",
         "hc06_ley_5.jpg",
         "hc06_ley_6.jpg"
-      ]
+      ],
+      "publicado_en": "2026-08-29T20:33:37-03:00",
+      "media_id": "17985361875101434"
     },
     {
       "id": "hc07-prueba-gratis",
