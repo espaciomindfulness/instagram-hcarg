@@ -91,11 +91,13 @@
     {
       "id": "hc07-prueba-gratis",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-08-31",
       "hora": "09:00",
       "caption": "Probalo gratis con dos pacientes.\n\nSin tarjeta, sin vencimiento y sin que te llamemos por teléfono. Cargá dos pacientes reales, usalo un mes y fijate si te cambia la semana.\n\nSi no te sirve, lo desinstalás y no pasó nada. Los datos son tuyos y están en tu computadora.\n\nhcarg.com.ar 🌿\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc07_prueba.jpg"
+      "archivo": "hc07_prueba.jpg",
+      "publicado_en": "2026-08-31T10:34:26-03:00",
+      "media_id": "18374513932229726"
     },
     {
       "id": "hc08-reportes",
