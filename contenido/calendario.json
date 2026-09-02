@@ -102,11 +102,13 @@
     {
       "id": "hc08-reportes",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-02",
       "hora": "20:00",
       "caption": "¿Cuánto facturaste este año?\n\nSi para responder eso tenés que abrir una planilla y sumar a mano, esto es para vos.\n\nTotal del año, promedio mensual, mejor mes y el detalle mes a mes. Más lo que está cobrado y lo que quedó pendiente, que suele ser el dato que más cuesta tener a mano.\n\nProbalo gratis en hcarg.com.ar\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc08_reportes.jpg"
+      "archivo": "hc08_reportes.jpg",
+      "publicado_en": "2026-09-02T20:14:01-03:00",
+      "media_id": "17980391847085557"
     },
     {
       "id": "hc09-cinco-senales",
