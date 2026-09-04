@@ -194,6 +194,118 @@
       "hora": "20:00",
       "caption": "La mejor forma de saber si te sirve es usarlo.\n\nBajás la app, cargás dos pacientes de verdad y la usás un mes. Sin tarjeta, sin vencimiento, sin compromiso.\n\nSi te ordena la semana, seguís. Si no, la desinstalás: los datos son tuyos y están en tu computadora, no en un servidor del que tengas que pedirlos.\n\nhcarg.com.ar 🌿\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
       "archivo": "hc15_cierre.jpg"
+    },
+    {
+      "id": "hc16-trabajo-invisible",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-09-18",
+      "hora": "09:00",
+      "caption": "Nadie te paga por administrar tu consultorio.\n\nY sin embargo son horas todos los meses: pasar registros, coordinar turnos, controlar quién pagó, armar facturas. Trabajo real que no entra en ninguna factura ni en el cálculo de cuánto vale tu hora.\n\nPero sí entra en tu cansancio.\n\nHC ARG junta historia clínica, agenda y facturación en un solo lugar. Probalo gratis con dos pacientes — link en bio.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivo": "hc16_trabajo_invisible.jpg"
+    },
+    {
+      "id": "hc17-derecho-de-acceso",
+      "tipo": "carrusel",
+      "estado": "pendiente",
+      "fecha": "2026-09-20",
+      "hora": "20:00",
+      "caption": "Un paciente te pide su historia clínica. ¿Qué hacés?\n\nEs un derecho suyo, no un favor tuyo: la historia clínica le pertenece. Vos sos el custodio.\n\nCuatro cosas que conviene tener claras antes de que pase 👉 deslizá.\n\nLa segunda es la que complica: los plazos son cortos. Si tus registros están en un cuaderno o repartidos en carpetas, juntar todo ordenado y legible en 48 horas es un problema real.\n\nProbalo gratis con dos pacientes — link en bio.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivos": [
+        "hc17_acceso_1.jpg",
+        "hc17_acceso_2.jpg",
+        "hc17_acceso_3.jpg",
+        "hc17_acceso_4.jpg",
+        "hc17_acceso_5.jpg",
+        "hc17_acceso_6.jpg"
+      ]
+    },
+    {
+      "id": "hc18-exportar-pdf",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-09-22",
+      "hora": "09:00",
+      "caption": "La historia clínica completa, en un PDF.\n\nOrdenada, cronológica, con tus datos profesionales. Lista para entregarle al paciente que la pide o para presentar donde te la reclamen.\n\nDos clics. Lo que con papel es una tarde entera de fotocopias y de rezar para que no falte ninguna hoja.\n\nhcarg.com.ar\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivo": "hc18_exportar.jpg"
+    },
+    {
+      "id": "hc19-precio-de-la-hora",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-09-24",
+      "hora": "20:00",
+      "caption": "Hacé esta cuenta, aunque duela.\n\nAgarrá lo que facturaste el mes pasado y dividilo por las horas que le dedicaste. Todas: las de sesión, las de administración, las de buscar un dato viejo, las de facturar el domingo a la noche.\n\nEl número que sale casi nunca coincide con lo que creés que cobrás por hora.\n\nLa diferencia no está en tu tarifa: está en las horas que no cobrás.\n\nProbalo gratis — link en bio.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivo": "hc19_precio_hora.jpg"
+    },
+    {
+      "id": "hc20-confidencialidad-practica",
+      "tipo": "carrusel",
+      "estado": "pendiente",
+      "fecha": "2026-09-26",
+      "hora": "20:00",
+      "caption": "La confidencialidad no se rompe por un hacker.\n\nSe rompe por la notebook en el café, el celular que se pierde, alguien que abre tu computadora en casa. Lo cotidiano.\n\nCinco cosas concretas sobre proteger datos de pacientes, más allá del juramento 👉 deslizá.\n\nLa segunda sorprende a mucha gente: la contraseña de Windows no protege tus archivos, solo la sesión. Si alguien saca el disco, lee todo.\n\nEn HC ARG está resuelto por diseño: cifrado local, adjuntos dentro de la misma base y auditoría de accesos 🔒\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivos": [
+        "hc20_privacidad_1.jpg",
+        "hc20_privacidad_2.jpg",
+        "hc20_privacidad_3.jpg",
+        "hc20_privacidad_4.jpg",
+        "hc20_privacidad_5.jpg",
+        "hc20_privacidad_6.jpg",
+        "hc20_privacidad_7.jpg"
+      ]
+    },
+    {
+      "id": "hc21-agenda",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-09-28",
+      "hora": "09:00",
+      "caption": "Los turnos, donde ya los mirás.\n\nLa agenda se sincroniza con tu Google Calendar y ya trae los feriados argentinos cargados, así no agendás una sesión un 25 de mayo.\n\nReprogramás en la app y se actualiza en el celular. Sin doble carga.\n\nProbalo gratis con dos pacientes en hcarg.com.ar\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivo": "hc21_agenda.jpg"
+    },
+    {
+      "id": "hc22-empezar-de-cero",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-09-30",
+      "hora": "20:00",
+      "caption": "«Tengo diez años de historias en papel.»\n\nEs la objeción que más escucho, y tiene una respuesta simple: no hace falta cargar nada retroactivo.\n\nEmpezás con los pacientes que atendés esta semana. El papel queda como archivo, ahí donde está. En dos meses la mayor parte de tu práctica activa ya está adentro, sin que hayas hecho ningún trabajo extra.\n\nNo es todo o nada 🌿\n\nProbalo gratis — link en bio.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivo": "hc22_empezar.jpg"
+    },
+    {
+      "id": "hc23-dia-tipico",
+      "tipo": "carrusel",
+      "estado": "pendiente",
+      "fecha": "2026-10-02",
+      "hora": "20:00",
+      "caption": "Cómo es un día con HC ARG, de principio a fin.\n\nNo es «un programa más que abrir». Son cuatro momentos que ya existen en tu día, resueltos en dos minutos cada uno 👉 deslizá.\n\nEl que más cambia las cosas es el segundo: escribir la sesión al terminar, con el paciente todavía fresco. No a la noche, cuando ya se te mezclaron cinco y escribís de memoria.\n\nProbalo gratis con dos pacientes en hcarg.com.ar\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivos": [
+        "hc23_dia_1.jpg",
+        "hc23_dia_2.jpg",
+        "hc23_dia_3.jpg",
+        "hc23_dia_4.jpg",
+        "hc23_dia_5.jpg",
+        "hc23_dia_6.jpg"
+      ]
+    },
+    {
+      "id": "hc24-soporte-directo",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-10-04",
+      "hora": "09:00",
+      "caption": "Si algo no funciona, me escribís a mí.\n\nNo hay mesa de ayuda, ni ticket que se pierde, ni respuesta automática prometiendo 72 horas hábiles.\n\nSoy psicólogo y desarrollé HC ARG para mi propio consultorio. Cuando me contás un problema, entiendo de qué hablás antes de que termines de explicarlo — porque probablemente lo tuve yo primero.\n\nEs la ventaja de que esto lo haga un colega y no una empresa de software 🌿\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivo": "hc24_soporte.jpg"
+    },
+    {
+      "id": "hc25-cierre-prueba",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-10-06",
+      "hora": "20:00",
+      "caption": "Dos pacientes, sin tarjeta, sin vencimiento.\n\nLa versión de prueba tiene todas las funciones: historia clínica cifrada, agenda, facturación ARCA, reportes y copias de seguridad. No es una demo recortada.\n\nCargá dos pacientes reales y usala un mes entero. Si te ordena la semana, seguís. Si no, la desinstalás y los datos quedan en tu computadora.\n\nhcarg.com.ar 🌿\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivo": "hc25_cierre.jpg"
     }
   ]
 }
