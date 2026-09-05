@@ -113,7 +113,7 @@
     {
       "id": "hc09-cinco-senales",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-04",
       "hora": "20:00",
       "caption": "Cinco señales de que tu sistema de historias clínicas no da más.\n\nSi te reconocés en tres, ya lo sabías 👉 deslizá.\n\nLa quinta es la más reveladora: si te daría vergüenza mostrarle a un colega cómo llevás tus registros, esa incomodidad es información. No habla de tu trabajo clínico — habla de las herramientas con las que lo sostenés.\n\nSe ordena en una tarde. Probalo gratis con dos pacientes.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
@@ -125,7 +125,9 @@
         "hc09_senales_5.jpg",
         "hc09_senales_6.jpg",
         "hc09_senales_7.jpg"
-      ]
+      ],
+      "publicado_en": "2026-09-04T21:18:48-03:00",
+      "media_id": "18104376884261455"
     },
     {
       "id": "hc10-copias-seguridad",
