@@ -132,11 +132,13 @@
     {
       "id": "hc10-copias-seguridad",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-06",
       "hora": "09:00",
       "caption": "¿Qué pasa si mañana se te rompe la computadora?\n\nEs la contracara honesta de tener los datos solo en tu PC: la copia de seguridad deja de ser un detalle técnico y pasa a ser parte de tu responsabilidad profesional.\n\nPor eso en HC ARG las copias son automáticas, se verifican solas (no alcanza con guardarlas: hay que saber que se pueden restaurar) y se recuperan en un clic.\n\nProbalo gratis — link en bio 🔒\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc10_backups.jpg"
+      "archivo": "hc10_backups.jpg",
+      "publicado_en": "2026-09-06T11:05:38-03:00",
+      "media_id": "17909388924470657"
     },
     {
       "id": "hc11-todo-el-consultorio",
