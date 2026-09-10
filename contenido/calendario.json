@@ -161,11 +161,13 @@
     {
       "id": "hc12-cuaderno-drive-whatsapp",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-10",
       "hora": "09:00",
       "caption": "Un cuaderno, un Drive, un WhatsApp y una planilla.\n\nEs el sistema de la mayoría de los consultorios, y no está mal pensado: cada pieza resolvió un problema real en su momento.\n\nEl tema es que ninguna se habla con las otras. Cada una tiene una parte de la verdad y vos sos el único que sabe cómo encajan. Funciona… hasta que un día no.\n\nProbalo gratis con dos pacientes — link en bio.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc12_parches.jpg"
+      "archivo": "hc12_parches.jpg",
+      "publicado_en": "2026-09-10T12:06:57-03:00",
+      "media_id": "17885446608618560"
     },
     {
       "id": "hc13-cifrado-explicado",
