@@ -26,16 +26,18 @@ def p17_derecho_de_acceso():
     return [
         ("hc17_acceso_1.png", portada(
             "Un paciente te pide", "su historia clínica",
-            "Qué tenés que hacer, y en cuánto tiempo.", "teal")),
+            "Qué tenés que hacer cuando pasa.", "teal")),
         ("hc17_acceso_2.png", punto(
             None, "Tiene derecho a pedirla.",
             "La historia clínica le pertenece al paciente. Vos sos el custodio: "
             "podés negarte a muchas cosas, pero no a entregarle una copia.", 1)),
         ("hc17_acceso_3.png", punto(
-            None, "El plazo es corto.",
-            "La ley habla de entrega dentro de las 48 horas para lo urgente. "
-            "Si tus registros están en un cuaderno o repartidos en carpetas, "
-            "ese plazo se vuelve un problema.", 2)),
+            # Aca decia "48 horas". Se saco: el usuario no pudo confirmar
+            # el plazo y no se publica un dato legal que no esta verificado.
+            None, "Conviene tenerla lista rápido.",
+            "Cuando un paciente la pide, la espera se nota. Si tus registros "
+            "están en un cuaderno o repartidos en carpetas, juntarlos lleva "
+            "días que nadie entiende del otro lado.", 2)),
         ("hc17_acceso_4.png", punto(
             None, "Tiene que ser legible y completa.",
             "No alcanza con juntar papeles sueltos: se entrega el registro "

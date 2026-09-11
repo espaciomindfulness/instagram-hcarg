@@ -15,10 +15,10 @@ De ahi que la tanda sea mayoria carrusel (6 de 12) y que casi todos los temas
 sean cosas que dan miedo o pereza: un oficio judicial, que anotar en la
 sesion, cuanto hay que guardar, como cerrar el anio.
 
-⚠️ PLAZOS LEGALES: los numeros de la ley 26.529 (10 anios de conservacion,
-48 horas para entregar) van escritos como "la ley habla de", nunca como
-asesoramiento. Cada pieza legal aclara que el responsable es el profesional.
-Antes de publicar conviene que Christian los confirme.
+⚠️ PLAZOS LEGALES: los 10 anios de conservacion de la ley 26.529 los
+confirmo Christian (2026-09-11). Las "48 horas para entregar" NO: no las pudo
+confirmar y se sacaron de todas las piezas. No volver a ponerlas sin
+verificar. Cada pieza legal aclara que el responsable es el profesional.
 
 Sin precios: la version de prueba es la unica oferta que se nombra.
 """
@@ -74,7 +74,7 @@ def p28_oficio():
     return [
         ("hc28_oficio_1.png", portada(
             "Te llega un oficio", "pidiendo una historia clínica",
-            "Qué se entrega, qué no, y en cuánto tiempo.", "blanco")),
+            "Qué se entrega, qué no, y cómo cuidarte.", "blanco")),
         ("hc28_oficio_2.png", punto(
             None, "Respirá: no es una acusación.",
             "En la enorme mayoría de los casos sos un tercero al que le piden "
@@ -97,7 +97,7 @@ def p28_oficio():
         ("hc28_oficio_6.png", cta(
             "Ordenada y en dos clics",
             "Exportás la historia completa en PDF, cronológica y con tus "
-            "datos profesionales. Ante un plazo corto, eso es todo.",
+            "datos profesionales. Cuando te la piden, eso es todo.",
             "PROBALO GRATIS · LINK EN BIO", None, "blanco")),
     ]
 

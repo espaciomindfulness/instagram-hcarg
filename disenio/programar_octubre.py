@@ -24,9 +24,9 @@ P = [
   "Es un derecho suyo, no un favor tuyo: la historia clínica le pertenece. "
   "Vos sos el custodio.\n\n"
   "Cuatro cosas que conviene tener claras antes de que pase 👉 deslizá.\n\n"
-  "La segunda es la que complica: los plazos son cortos. Si tus registros están "
-  "en un cuaderno o repartidos en carpetas, juntar todo ordenado y legible en "
-  "48 horas es un problema real.\n\n"
+  "La segunda es la que complica: cuando la pide, la espera se nota. Si tus "
+  "registros están en un cuaderno o repartidos en carpetas, juntar todo "
+  "ordenado y legible lleva días.\n\n"
   "Probalo gratis con dos pacientes — link en bio."),
 
  ("2026-09-22", "09:00", "hc18-exportar-pdf", "imagen", ["hc18_exportar.jpg"],
