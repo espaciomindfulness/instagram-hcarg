@@ -314,6 +314,156 @@
       "hora": "20:00",
       "caption": "Dos pacientes, sin tarjeta, sin vencimiento.\n\nLa versión de prueba tiene todas las funciones: historia clínica cifrada, agenda, facturación ARCA, reportes y copias de seguridad. No es una demo recortada.\n\nCargá dos pacientes reales y usala un mes entero. Si te ordena la semana, seguís. Si no, la desinstalás y los datos quedan en tu computadora.\n\nhcarg.com.ar 🌿\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
       "archivo": "hc25_cierre.jpg"
+    },
+    {
+      "id": "hc26-que-no-escribir",
+      "tipo": "carrusel",
+      "estado": "pendiente",
+      "fecha": "2026-10-08",
+      "hora": "09:00",
+      "caption": "Cuatro cosas que conviene NO escribir en una historia clínica.\n\nNo porque estén prohibidas, sino porque el día que alguien más la lee —un colega, un juez, el propio paciente— se vuelven en contra 👉 deslizá.\n\nLa primera es la más común: «manipulador», «resistente», «poco colaborativo». Son conclusiones tuyas escritas como si fueran hechos. Describí la conducta que observaste y dejá que el criterio clínico se sostenga solo.\n\nY la cuarta es la que más caro sale: no escribir nada durante tres semanas. Sin registro no podés fundamentar por qué hiciste lo que hiciste.\n\nEsto es orientación general, no asesoramiento legal. Ante un caso concreto, consultá con tu colegio profesional o con un abogado.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivos": [
+        "hc26_escribir_1.jpg",
+        "hc26_escribir_2.jpg",
+        "hc26_escribir_3.jpg",
+        "hc26_escribir_4.jpg",
+        "hc26_escribir_5.jpg",
+        "hc26_escribir_6.jpg"
+      ]
+    },
+    {
+      "id": "hc27-cuanto-guardar",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-10-10",
+      "hora": "20:00",
+      "caption": "¿Cuánto tiempo hay que guardar una historia clínica?\n\nLa ley 26.529 habla de diez años desde la última actuación.\n\nDiez años. Pensalo en papel: mudanzas, cajas, humedad, el altillo de la casa de tus viejos. Y la obligación sigue siendo tuya aunque el paciente no vuelva nunca más.\n\nEn digital y cifrado ocupa lo que ocupa un archivo, se copia solo y se encuentra en dos segundos el día que alguien la pide.\n\nEsto es orientación general, no asesoramiento legal. Ante un caso concreto, consultá con tu colegio profesional o con un abogado.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivo": "hc27_guardar.jpg"
+    },
+    {
+      "id": "hc28-oficio-judicial",
+      "tipo": "carrusel",
+      "estado": "pendiente",
+      "fecha": "2026-10-12",
+      "hora": "09:00",
+      "caption": "Te llega un oficio pidiendo la historia clínica de un paciente.\n\nPasa más de lo que uno cree, casi siempre en un divorcio o una causa laboral, y casi siempre agarra desprevenido 👉 deslizá.\n\nLo primero: en la enorme mayoría de los casos sos un tercero al que le piden documentación, no alguien investigado. El apuro y el susto son los que hacen que se cometan errores.\n\nLo segundo, y es donde más se resbala: no es lo mismo que te pidan «la historia clínica completa» que «constancia de tratamiento» o «fechas de atención». Se entrega lo que se pidió. El secreto profesional sigue en pie sobre todo lo demás.\n\nEsto es orientación general, no asesoramiento legal. Ante un caso concreto, consultá con tu colegio profesional o con un abogado.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivos": [
+        "hc28_oficio_1.jpg",
+        "hc28_oficio_2.jpg",
+        "hc28_oficio_3.jpg",
+        "hc28_oficio_4.jpg",
+        "hc28_oficio_5.jpg",
+        "hc28_oficio_6.jpg"
+      ]
+    },
+    {
+      "id": "hc29-ausencias",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-10-14",
+      "hora": "20:00",
+      "caption": "«Perdón, hoy no voy a poder» — media hora antes.\n\nEse turno no se recupera. Y la conversación sobre qué pasa cuando eso ocurre es de las que más se posterga, porque incomoda.\n\nPero postergarla la vuelve peor: cuando la tenés que tener ya pasó algo, y entonces parece un reclamo personal en vez de un encuadre.\n\nConviene que esté escrita y conversada en la primera sesión, junto con el resto del encuadre. No es una cuestión de plata: es parte del setting.\n\n¿Vos cómo lo manejás? Me interesa leerlo 👇\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivo": "hc29_ausencias.jpg"
+    },
+    {
+      "id": "hc30-como-anotar",
+      "tipo": "carrusel",
+      "estado": "pendiente",
+      "fecha": "2026-10-16",
+      "hora": "09:00",
+      "caption": "Un formato para anotar la sesión en dos minutos.\n\nSi te quedás mirando la pantalla sin saber por dónde empezar, el problema no es tu memoria: es que no tenés un molde 👉 deslizá.\n\nCuatro campos: qué trajo, qué observaste, qué hiciste, por dónde seguir.\n\nEl tercero es el que casi nadie escribe y el único que después explica por qué el tratamiento fue por donde fue. Y el cuarto es un regalo para vos del futuro: te evita empezar preguntando «¿en qué habíamos quedado?».\n\nGuardátelo para tenerlo a mano esta semana 🌿\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivos": [
+        "hc30_anotar_1.jpg",
+        "hc30_anotar_2.jpg",
+        "hc30_anotar_3.jpg",
+        "hc30_anotar_4.jpg",
+        "hc30_anotar_5.jpg",
+        "hc30_anotar_6.jpg"
+      ]
+    },
+    {
+      "id": "hc31-backup",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-10-18",
+      "hora": "20:00",
+      "caption": "Si mañana se te rompe la notebook, ¿qué perdés?\n\nNo es una hipótesis rara. Un disco que muere, un café volcado, un robo en el consultorio. Le pasa a alguien todos los días.\n\nSi la respuesta es «todo» o «no sé», eso es lo primero que hay que resolver — antes que cambiar de sistema, antes que ordenar la agenda, antes que cualquier otra mejora.\n\nY una segunda pregunta, más incómoda: si tenés copia de seguridad, ¿alguna vez la restauraste? Una copia que nunca se probó es una copia que no sabés si sirve.\n\nEn HC ARG las copias son automáticas y verificadas. hcarg.com.ar\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivo": "hc31_backup.jpg"
+    },
+    {
+      "id": "hc32-consentimiento",
+      "tipo": "carrusel",
+      "estado": "pendiente",
+      "fecha": "2026-10-20",
+      "hora": "09:00",
+      "caption": "Qué tendría que decir un consentimiento informado, más allá de la firma.\n\nCuatro puntos 👉 deslizá.\n\nEl segundo es el que más se omite y el más importante: los límites del secreto profesional. Decir de entrada en qué situaciones podrías tener que informar evita tener que explicarlo justo en el peor momento posible.\n\nY el tercero cada vez lo preguntan más: dónde quedan sus datos y quién puede acceder. Tener la respuesta lista transmite seriedad antes de que empiece el tratamiento.\n\nEsto es orientación general, no asesoramiento legal. Ante un caso concreto, consultá con tu colegio profesional o con un abogado.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivos": [
+        "hc32_consent_1.jpg",
+        "hc32_consent_2.jpg",
+        "hc32_consent_3.jpg",
+        "hc32_consent_4.jpg",
+        "hc32_consent_5.jpg",
+        "hc32_consent_6.jpg"
+      ]
+    },
+    {
+      "id": "hc33-facturar",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-10-22",
+      "hora": "20:00",
+      "caption": "El fin de mes, en una tarde menos.\n\nLa app arma las Factura C, se conecta con ARCA y trae el CAE. Sin volver a cargar lo que ya anotaste sesión por sesión: si marcaste el cobro cuando pasó, la facturación ya está hecha.\n\nLo que antes era un domingo entero con el navegador abierto en tres pestañas.\n\nProbalo gratis con dos pacientes — link en bio.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivo": "hc33_facturar.jpg"
+    },
+    {
+      "id": "hc34-teleconsulta",
+      "tipo": "carrusel",
+      "estado": "pendiente",
+      "fecha": "2026-10-24",
+      "hora": "09:00",
+      "caption": "Atender por videollamada no es atender en el consultorio con otra pantalla.\n\nTres cosas que cambian, y una que no 👉 deslizá.\n\nLa primera: el encuadre que antes daba el espacio ahora hay que construirlo con palabras. Dónde está cada uno, qué pasa si se corta, quién más hay en la casa. Si no se acuerda, se improvisa — y se improvisa mal.\n\nY la que no cambia: el registro. Una sesión por videollamada es una sesión, y va a la historia clínica con la misma responsabilidad.\n\nEsto es orientación general, no asesoramiento legal. Ante un caso concreto, consultá con tu colegio profesional o con un abogado.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivos": [
+        "hc34_tele_1.jpg",
+        "hc34_tele_2.jpg",
+        "hc34_tele_3.jpg",
+        "hc34_tele_4.jpg",
+        "hc34_tele_5.jpg"
+      ]
+    },
+    {
+      "id": "hc35-primer-contacto",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-10-26",
+      "hora": "20:00",
+      "caption": "Ese mensaje de WhatsApp que llega un domingo a la noche.\n\nTres preguntas antes de agendar:\n\n· ¿Qué te trae?\n· ¿Estás en tratamiento con alguien más?\n· ¿Hay algo urgente?\n\nDos minutos ahí te ahorran una primera sesión entera de reacomodar expectativas — o te evitan tomar un caso que no era para vos.\n\nLa tercera además es de cuidado, no de filtro: si hay urgencia, esa persona necesita otra cosa antes que un turno para dentro de diez días 🌿\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivo": "hc35_contacto.jpg"
+    },
+    {
+      "id": "hc36-cerrar-anio",
+      "tipo": "carrusel",
+      "estado": "pendiente",
+      "fecha": "2026-10-28",
+      "hora": "09:00",
+      "caption": "Cinco cosas para revisar en tu consultorio ahora, no en diciembre.\n\nEn diciembre ya no hay tiempo: hay cierres, fiestas y ganas de que termine 👉 deslizá.\n\nLa segunda duele: agarrá lo que facturaste este año y dividilo por las horas que le dedicaste. Todas — sesión, administración, facturar el domingo. Ese número, y no tu tarifa, es lo que tendría que ordenar tus decisiones del año que viene.\n\nY la quinta es la que más se posterga: el mejor momento para cambiar de sistema es enero, con la agenda vacía. En marzo ya estás corriendo y todo queda para el año que viene otra vez.\n\nGuardátelo y volvé en noviembre 🌿\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivos": [
+        "hc36_cierre_1.jpg",
+        "hc36_cierre_2.jpg",
+        "hc36_cierre_3.jpg",
+        "hc36_cierre_4.jpg",
+        "hc36_cierre_5.jpg",
+        "hc36_cierre_6.jpg",
+        "hc36_cierre_7.jpg"
+      ]
+    },
+    {
+      "id": "hc37-pregunta-abierta",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-10-30",
+      "hora": "20:00",
+      "caption": "Una pregunta, y me interesa de verdad la respuesta:\n\n¿Qué es lo que más te cuesta de la parte administrativa del consultorio?\n\nFacturar a fin de mes. Escribir las sesiones. Coordinar turnos por WhatsApp. Perseguir cobros. Encontrar ese dato de hace dos años que sabés que anotaste en algún lado.\n\nLeo todas las respuestas. Varias de las funciones que tiene hoy HC ARG salieron de charlas así con colegas, y las próximas van a salir de acá 👇\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivo": "hc37_pregunta.jpg"
     }
   ]
 }
