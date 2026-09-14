@@ -190,11 +190,13 @@
     {
       "id": "hc14-hecho-por-un-colega",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-14",
       "hora": "09:00",
       "caption": "Lo construí porque lo necesitaba yo.\n\nSoy psicólogo. Me cansé de perder horas en administración, de no encontrar una sesión de hace dos años y de facturar los domingos a la noche.\n\nHC ARG es la herramienta que quería tener. No salió de una reunión de marketing ni de un equipo que nunca atendió un paciente: salió de mi propio consultorio.\n\nSi sos colega y te suena, probalo gratis con dos pacientes. Y si algo no te cierra, escribime: del otro lado hay una persona, no un formulario.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc14_colega.jpg"
+      "archivo": "hc14_colega.jpg",
+      "publicado_en": "2026-09-14T11:57:27-03:00",
+      "media_id": "18196228588381927"
     },
     {
       "id": "hc15-cierre-prueba",
