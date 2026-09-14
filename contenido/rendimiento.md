@@ -1,13 +1,17 @@
 # Rendimiento de @hcarg.app
 
-Medido el 08/09/2026 a las 16:46. 37 seguidores al momento de medir.
+Medido el 14/09/2026 a las 15:07. 37 seguidores al momento de medir.
 
 `% base` es el alcance como porcentaje de tus seguidores. Por debajo de 100% la publicacion ni siquiera llego a toda tu gente; muy por encima, Instagram la mostro a desconocidos.
 
 | Fecha | Tipo | Publicacion | Alcance | % base | Guard. | Comp. | Interac. | Segs. |
 |---|---|---|---:|---:|---:|---:|---:|---:|
+| 2026-09-14 | imagen | Lo construí porque lo necesitaba yo. | 2 | 5% | 0 | 0 | 0 | 0 |
+| 2026-09-13 | carrusel | Cifrado, explicado sin tecnicismos. | 3 | 8% | 0 | 0 | 2 | 0 |
+| 2026-09-10 | imagen | Un cuaderno, un Drive, un WhatsApp y una plani… | 3 | 8% | 0 | 0 | 1 | 0 |
+| 2026-09-09 | carrusel | Todo tu consultorio en un solo lugar. | 4 | 11% | 0 | 0 | 1 | 0 |
 | 2026-09-06 | imagen | ¿Qué pasa si mañana se te rompe la computadora? | 4 | 11% | 0 | 0 | 1 | 0 |
-| 2026-09-05 | carrusel | Cinco señales de que tu sistema de historias c… | 7 | 19% | 0 | 0 | 3 | 0 |
+| 2026-09-05 | carrusel | Cinco señales de que tu sistema de historias c… | 8 | 22% | 0 | 0 | 3 | 0 |
 | 2026-09-02 | imagen | ¿Cuánto facturaste este año? | 5 | 14% | 0 | 0 | 2 | 0 |
 | 2026-08-31 | imagen | Probalo gratis con dos pacientes. | 3 | 8% | 0 | 0 | 0 | 0 |
 | 2026-08-29 | carrusel | La Ley 26.529, en criollo. | 8 | 22% | 0 | 0 | 0 | 0 |
@@ -23,14 +27,14 @@ Medido el 08/09/2026 a las 16:46. 37 seguidores al momento de medir.
 
 ## Resumen
 
-- Alcance promedio: **22** cuentas (61% de tu base).
-- Seguidores ganados en estas 14 publicaciones: **0**.
+- Alcance promedio: **18** cuentas (49% de tu base).
+- Seguidores ganados en estas 18 publicaciones: **0**.
 
 Alcance promedio por formato:
 
 - **reel**: 131 (1 publicaciones)
-- **carrusel**: 21 (7 publicaciones)
-- **imagen**: 6 (6 publicaciones)
+- **carrusel**: 18 (9 publicaciones)
+- **imagen**: 5 (8 publicaciones)
 
 La que mas lejos llego: «Así se ve HC ARG por dentro 👀 (capturas reales)» (reel, 131 cuentas).
 
