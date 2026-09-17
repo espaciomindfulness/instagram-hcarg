@@ -201,11 +201,13 @@
     {
       "id": "hc15-cierre-prueba",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-16",
       "hora": "20:00",
       "caption": "La mejor forma de saber si te sirve es usarlo.\n\nBajás la app, cargás dos pacientes de verdad y la usás un mes. Sin tarjeta, sin vencimiento, sin compromiso.\n\nSi te ordena la semana, seguís. Si no, la desinstalás: los datos son tuyos y están en tu computadora, no en un servidor del que tengas que pedirlos.\n\nhcarg.com.ar 🌿\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc15_cierre.jpg"
+      "archivo": "hc15_cierre.jpg",
+      "publicado_en": "2026-09-16T21:50:01-03:00",
+      "media_id": "18045338207818987"
     },
     {
       "id": "hc16-trabajo-invisible",
