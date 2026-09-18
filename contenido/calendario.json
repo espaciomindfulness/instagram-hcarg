@@ -212,11 +212,13 @@
     {
       "id": "hc16-trabajo-invisible",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-18",
       "hora": "09:00",
       "caption": "Nadie te paga por administrar tu consultorio.\n\nY sin embargo son horas todos los meses: pasar registros, coordinar turnos, controlar quién pagó, armar facturas. Trabajo real que no entra en ninguna factura ni en el cálculo de cuánto vale tu hora.\n\nPero sí entra en tu cansancio.\n\nHC ARG junta historia clínica, agenda y facturación en un solo lugar. Probalo gratis con dos pacientes — link en bio.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc16_trabajo_invisible.jpg"
+      "archivo": "hc16_trabajo_invisible.jpg",
+      "publicado_en": "2026-09-18T09:11:10-03:00",
+      "media_id": "18092738642651760"
     },
     {
       "id": "hc17-derecho-de-acceso",
