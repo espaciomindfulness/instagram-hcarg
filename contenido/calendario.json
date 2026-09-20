@@ -223,7 +223,7 @@
     {
       "id": "hc17-derecho-de-acceso",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-20",
       "hora": "20:00",
       "caption": "Un paciente te pide su historia clínica. ¿Qué hacés?\n\nEs un derecho suyo, no un favor tuyo: la historia clínica le pertenece. Vos sos el custodio.\n\nCuatro cosas que conviene tener claras antes de que pase 👉 deslizá.\n\nLa segunda es la que complica: cuando la pide, la espera se nota. Si tus registros están en un cuaderno o repartidos en carpetas, juntar todo ordenado y legible lleva días.\n\nProbalo gratis con dos pacientes — link en bio.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
@@ -234,7 +234,9 @@
         "hc17_acceso_4.jpg",
         "hc17_acceso_5.jpg",
         "hc17_acceso_6.jpg"
-      ]
+      ],
+      "publicado_en": "2026-09-20T20:08:46-03:00",
+      "media_id": "18104303003255543"
     },
     {
       "id": "hc38-testimonio-denise",
