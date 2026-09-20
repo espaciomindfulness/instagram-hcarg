@@ -237,13 +237,13 @@
       ]
     },
     {
-      "id": "hc18-exportar-pdf",
+      "id": "hc38-testimonio-denise",
       "tipo": "imagen",
       "estado": "pendiente",
       "fecha": "2026-09-22",
       "hora": "09:00",
-      "caption": "La historia clínica completa, en un PDF.\n\nOrdenada, cronológica, con tus datos profesionales. Lista para entregarle al paciente que la pide o para presentar donde te la reclamen.\n\nDos clics. Lo que con papel es una tarde entera de fotocopias y de rezar para que no falte ninguna hoja.\n\nhcarg.com.ar\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc18_exportar.jpg"
+      "archivo": "hc38_testimonio_denise.jpg",
+      "caption": "Esto no lo escribí yo.\n\nDenise usa HC ARG en su consultorio. Le pedí que me contara cómo le venía resultando y esto fue lo que me respondió:\n\n«Excelente app, muy práctica al momento de registrar las sesiones: quedan registrados los que abonaron y no. Y lo mejor es que podés facturar directamente desde la plataforma, con un solo botón y en segundos, tener todo facturado cada paciente por separado y elegir el diseño de la factura. Sin dudas, es de lo que más tiempo me ahorra.»\n\n— Lic. Denise M.\n\nLo comparto con su permiso. Hay otro testimonio más, de una colega que la usa desde julio, en hcarg.com.ar.\n\nProbalo gratis con dos pacientes — link en bio.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG"
     },
     {
       "id": "hc19-precio-de-la-hora",
@@ -472,6 +472,15 @@
       "hora": "20:00",
       "caption": "Una pregunta, y me interesa de verdad la respuesta:\n\n¿Qué es lo que más te cuesta de la parte administrativa del consultorio?\n\nFacturar a fin de mes. Escribir las sesiones. Coordinar turnos por WhatsApp. Perseguir cobros. Encontrar ese dato de hace dos años que sabés que anotaste en algún lado.\n\nLeo todas las respuestas. Varias de las funciones que tiene hoy HC ARG salieron de charlas así con colegas, y las próximas van a salir de acá 👇\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
       "archivo": "hc37_pregunta.jpg"
+    },
+    {
+      "id": "hc18-exportar-pdf",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-11-01",
+      "hora": "09:00",
+      "caption": "La historia clínica completa, en un PDF.\n\nOrdenada, cronológica, con tus datos profesionales. Lista para entregarle al paciente que la pide o para presentar donde te la reclamen.\n\nDos clics. Lo que con papel es una tarde entera de fotocopias y de rezar para que no falte ninguna hoja.\n\nhcarg.com.ar\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "archivo": "hc18_exportar.jpg"
     }
   ]
 }

@@ -312,3 +312,53 @@ def guardar(placas, nombre_preview=None, cols=6):
     salida = Path(__file__).resolve().parent / nombre_preview
     hoja.save(salida, quality=90)
     print("preview:", salida)
+
+
+def testimonio(cita, inicial, nombre, etiqueta="LO QUE DICEN LAS COLEGAS",
+               color_avatar=ROSA, tono="blanco"):
+    """Placa de testimonio: comilla grande, cita en serif italica y, abajo,
+    el circulo con la inicial y el nombre al lado — el mismo bloque de firma
+    que usan las tarjetas de testimonio de hcarg.com.ar, para que quien venga
+    del anuncio reconozca la pieza."""
+    t = TONOS[tono]
+    img = lienzo(t["fondo"])
+    circulos(img, BLANCO_PURO if tono != "blanco" else TEAL,
+             [(985, 250, 235, 13 if tono != "blanco" else 10), (85, 1185, 245, 11)])
+    isotipo(img, W // 2, 178, 56, t["chapa"])
+    d = ImageDraw.Draw(img)
+
+    util = W - 2 * MARGEN - 40
+    espaciado(d, etiqueta, fuente(SANS_B, 30), 0, 300,
+              t["sub"] if tono == "blanco" else t["linea"], sep=7, centrado_en=W)
+
+    f_cita = fuente(SERIF_I, 52 if len(cita) < 190 else 46)
+    alto_cita = alto_parrafo(d, cita, f_cita, util, 1.46)
+    # El bloque comilla + cita + firma se centra en el hueco que queda entre la
+    # etiqueta y el pie, asi la placa no queda cabeceada con citas cortas.
+    arranque = 390
+    hueco = H - 190 - arranque
+    y = arranque + max(0, (hueco - (96 + alto_cita + 210)) // 2)
+
+    d.text((W // 2 - 34, y), "“", font=fuente(SERIF_B, 150),
+           fill=color_avatar if tono == "blanco" else t["linea"])
+    y = parrafo(d, cita, f_cita, MARGEN + 20, y + 132, util, t["titulo"],
+                interlinea=1.46, centrado=True)
+
+    d.line([(W // 2 - 70, y + 62), (W // 2 + 70, y + 62)], fill=t["linea"], width=3)
+
+    # Firma: circulo con la inicial a la izquierda y el nombre al lado.
+    f_nom = fuente(SANS_B, 40)
+    r = 42
+    an_nom = ancho(d, nombre, f_nom)
+    ancho_firma = r * 2 + 26 + an_nom
+    x0 = (W - ancho_firma) // 2
+    cy = y + 172
+    d.ellipse([x0, cy - r, x0 + 2 * r, cy + r], fill=color_avatar)
+    f_ini = fuente(SANS_B, 44)
+    d.text((x0 + r - ancho(d, inicial, f_ini) // 2, cy - 30), inicial,
+           font=f_ini, fill=BLANCO_PURO)
+    d.text((x0 + 2 * r + 26, cy - 26), nombre, font=f_nom,
+           fill=t["titulo"] if tono != "blanco" else TINTA)
+
+    pie(d, t["pie"])
+    return img.convert("RGB")
