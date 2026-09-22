@@ -241,11 +241,13 @@
     {
       "id": "hc38-testimonio-denise",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-22",
       "hora": "09:00",
       "archivo": "hc38_testimonio_denise.jpg",
-      "caption": "Esto no lo escribí yo.\n\nDenise usa HC ARG en su consultorio. Le pedí que me contara cómo le venía resultando y esto fue lo que me respondió:\n\n«Excelente app, muy práctica al momento de registrar las sesiones: quedan registrados los que abonaron y no. Y lo mejor es que podés facturar directamente desde la plataforma, con un solo botón y en segundos, tener todo facturado cada paciente por separado y elegir el diseño de la factura. Sin dudas, es de lo que más tiempo me ahorra.»\n\n— Lic. Denise M.\n\nLo comparto con su permiso. Hay otro testimonio más, de una colega que la usa desde julio, en hcarg.com.ar.\n\nProbalo gratis con dos pacientes — link en bio.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG"
+      "caption": "Esto no lo escribí yo.\n\nDenise usa HC ARG en su consultorio. Le pedí que me contara cómo le venía resultando y esto fue lo que me respondió:\n\n«Excelente app, muy práctica al momento de registrar las sesiones: quedan registrados los que abonaron y no. Y lo mejor es que podés facturar directamente desde la plataforma, con un solo botón y en segundos, tener todo facturado cada paciente por separado y elegir el diseño de la factura. Sin dudas, es de lo que más tiempo me ahorra.»\n\n— Lic. Denise M.\n\nLo comparto con su permiso. Hay otro testimonio más, de una colega que la usa desde julio, en hcarg.com.ar.\n\nProbalo gratis con dos pacientes — link en bio.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "publicado_en": "2026-09-22T10:20:21-03:00",
+      "media_id": "18093642221134755"
     },
     {
       "id": "hc19-precio-de-la-hora",
