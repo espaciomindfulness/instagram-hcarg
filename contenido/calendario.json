@@ -252,11 +252,13 @@
     {
       "id": "hc19-precio-de-la-hora",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-24",
       "hora": "20:00",
       "caption": "Hacé esta cuenta, aunque duela.\n\nAgarrá lo que facturaste el mes pasado y dividilo por las horas que le dedicaste. Todas: las de sesión, las de administración, las de buscar un dato viejo, las de facturar el domingo a la noche.\n\nEl número que sale casi nunca coincide con lo que creés que cobrás por hora.\n\nLa diferencia no está en tu tarifa: está en las horas que no cobrás.\n\nProbalo gratis — link en bio.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc19_precio_hora.jpg"
+      "archivo": "hc19_precio_hora.jpg",
+      "publicado_en": "2026-09-24T20:50:01-03:00",
+      "media_id": "18392167738166859"
     },
     {
       "id": "hc20-confidencialidad-practica",
