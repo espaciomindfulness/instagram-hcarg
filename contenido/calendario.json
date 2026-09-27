@@ -263,7 +263,7 @@
     {
       "id": "hc20-confidencialidad-practica",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-26",
       "hora": "20:00",
       "caption": "La confidencialidad no se rompe por un hacker.\n\nSe rompe por la notebook en el café, el celular que se pierde, alguien que abre tu computadora en casa. Lo cotidiano.\n\nCinco cosas concretas sobre proteger datos de pacientes, más allá del juramento 👉 deslizá.\n\nLa segunda sorprende a mucha gente: la contraseña de Windows no protege tus archivos, solo la sesión. Si alguien saca el disco, lee todo.\n\nEn HC ARG está resuelto por diseño: cifrado local, adjuntos dentro de la misma base y auditoría de accesos 🔒\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
@@ -275,7 +275,9 @@
         "hc20_privacidad_5.jpg",
         "hc20_privacidad_6.jpg",
         "hc20_privacidad_7.jpg"
-      ]
+      ],
+      "publicado_en": "2026-09-26T22:17:01-03:00",
+      "media_id": "18021223502707979"
     },
     {
       "id": "hc21-agenda",
