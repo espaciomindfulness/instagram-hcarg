@@ -1,11 +1,15 @@
 # Rendimiento de @hcarg.app
 
-Medido el 21/09/2026 a las 15:15. 36 seguidores al momento de medir.
+Medido el 28/09/2026 a las 16:46. 36 seguidores al momento de medir.
 
 `% base` es el alcance como porcentaje de tus seguidores. Por debajo de 100% la publicacion ni siquiera llego a toda tu gente; muy por encima, Instagram la mostro a desconocidos.
 
 | Fecha | Tipo | Publicacion | Alcance | % base | Guard. | Comp. | Interac. | Segs. |
 |---|---|---|---:|---:|---:|---:|---:|---:|
+| 2026-09-28 | imagen | Los turnos, donde ya los mirás. | 0 | 0% | 0 | 0 | 0 | 0 |
+| 2026-09-27 | carrusel | La confidencialidad no se rompe por un hacker. | 11 | 31% | 0 | 0 | 2 | 0 |
+| 2026-09-24 | imagen | Hacé esta cuenta, aunque duela. | 8 | 22% | 0 | 0 | 0 | 0 |
+| 2026-09-22 | imagen | Esto no lo escribí yo. | 6 | 17% | 0 | 0 | 0 | 0 |
 | 2026-09-20 | carrusel | Un paciente te pide su historia clínica. ¿Qué … | 8 | 22% | 1 | 0 | 3 | 0 |
 | 2026-09-18 | imagen | Nadie te paga por administrar tu consultorio. | 6 | 17% | 0 | 0 | 0 | 0 |
 | 2026-09-17 | imagen | La mejor forma de saber si te sirve es usarlo. | 4 | 11% | 0 | 0 | 1 | 0 |
@@ -22,23 +26,18 @@ Medido el 21/09/2026 a las 15:15. 36 seguidores al momento de medir.
 | 2026-08-25 | imagen | Domingo, 22:40. | 8 | 22% | 0 | 0 | 1 | 0 |
 | 2026-08-23 | carrusel | ¿Dónde están tus historias clínicas ahora mism… | 8 | 22% | 0 | 0 | 2 | 0 |
 | 2026-08-21 | imagen | Toda la historia de un paciente en una pantall… | 12 | 33% | 0 | 0 | 2 | 0 |
-| 2026-08-19 | carrusel | Sumá las horas que te lleva la parte administr… | 9 | 25% | 0 | 0 | 2 | 0 |
-| 2026-07-31 | carrusel | Tu paciente te cuenta cosas que no le cuenta a… | 37 | 103% | 2 | 0 | 5 | 0 |
-| 2026-07-16 | reel | Así se ve HC ARG por dentro 👀 (capturas reales) | 131 | 364% | 1 | 0 | 4 | 0 |
-| 2026-07-16 | carrusel | Así se ve HC ARG por dentro 👀 (capturas reales) | 38 | 106% | 0 | 0 | 3 | 0 |
 
 ## Resumen
 
-- Alcance promedio: **16** cuentas (44% de tu base).
+- Alcance promedio: **6** cuentas (18% de tu base).
 - Seguidores ganados en estas 20 publicaciones: **0**.
 
 Alcance promedio por formato:
 
-- **reel**: 131 (1 publicaciones)
-- **carrusel**: 14 (9 publicaciones)
-- **imagen**: 6 (10 publicaciones)
+- **carrusel**: 8 (7 publicaciones)
+- **imagen**: 6 (13 publicaciones)
 
-La que mas lejos llego: «Así se ve HC ARG por dentro 👀 (capturas reales)» (reel, 131 cuentas).
+La que mas lejos llego: «Toda la historia de un paciente en una pantall…» (imagen, 12 cuentas).
 
 ## Seguidores dia por dia
 
