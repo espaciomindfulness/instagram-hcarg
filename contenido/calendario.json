@@ -282,11 +282,13 @@
     {
       "id": "hc21-agenda",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-28",
       "hora": "09:00",
       "caption": "Los turnos, donde ya los mirás.\n\nLa agenda se sincroniza con tu Google Calendar y ya trae los feriados argentinos cargados, así no agendás una sesión un 25 de mayo.\n\nReprogramás en la app y se actualiza en el celular. Sin doble carga.\n\nProbalo gratis con dos pacientes en hcarg.com.ar\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc21_agenda.jpg"
+      "archivo": "hc21_agenda.jpg",
+      "publicado_en": "2026-09-28T16:34:58-03:00",
+      "media_id": "18137668309715714"
     },
     {
       "id": "hc22-empezar-de-cero",
