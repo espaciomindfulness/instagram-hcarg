@@ -293,11 +293,13 @@
     {
       "id": "hc22-empezar-de-cero",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-30",
       "hora": "20:00",
       "caption": "«Tengo diez años de historias en papel.»\n\nEs la objeción que más escucho, y tiene una respuesta simple: no hace falta cargar nada retroactivo.\n\nEmpezás con los pacientes que atendés esta semana. El papel queda como archivo, ahí donde está. En dos meses la mayor parte de tu práctica activa ya está adentro, sin que hayas hecho ningún trabajo extra.\n\nNo es todo o nada 🌿\n\nProbalo gratis — link en bio.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc22_empezar.jpg"
+      "archivo": "hc22_empezar.jpg",
+      "publicado_en": "2026-09-30T21:07:41-03:00",
+      "media_id": "18057518957585562"
     },
     {
       "id": "hc23-dia-tipico",
