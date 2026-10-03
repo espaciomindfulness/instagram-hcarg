@@ -304,7 +304,7 @@
     {
       "id": "hc23-dia-tipico",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-02",
       "hora": "20:00",
       "caption": "Cómo es un día con HC ARG, de principio a fin.\n\nNo es «un programa más que abrir». Son cuatro momentos que ya existen en tu día, resueltos en dos minutos cada uno 👉 deslizá.\n\nEl que más cambia las cosas es el segundo: escribir la sesión al terminar, con el paciente todavía fresco. No a la noche, cuando ya se te mezclaron cinco y escribís de memoria.\n\nProbalo gratis con dos pacientes en hcarg.com.ar\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
@@ -315,7 +315,9 @@
         "hc23_dia_4.jpg",
         "hc23_dia_5.jpg",
         "hc23_dia_6.jpg"
-      ]
+      ],
+      "publicado_en": "2026-10-02T21:21:22-03:00",
+      "media_id": "18120108103737715"
     },
     {
       "id": "hc24-soporte-directo",
