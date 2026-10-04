@@ -322,11 +322,13 @@
     {
       "id": "hc24-soporte-directo",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-04",
       "hora": "09:00",
       "caption": "Si algo no funciona, me escribís a mí.\n\nNo hay mesa de ayuda, ni ticket que se pierde, ni respuesta automática prometiendo 72 horas hábiles.\n\nSoy psicólogo y desarrollé HC ARG para mi propio consultorio. Cuando me contás un problema, entiendo de qué hablás antes de que termines de explicarlo — porque probablemente lo tuve yo primero.\n\nEs la ventaja de que esto lo haga un colega y no una empresa de software 🌿\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc24_soporte.jpg"
+      "archivo": "hc24_soporte.jpg",
+      "publicado_en": "2026-10-04T11:18:45-03:00",
+      "media_id": "18119677235318794"
     },
     {
       "id": "hc25-cierre-prueba",
