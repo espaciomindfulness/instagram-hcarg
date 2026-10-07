@@ -333,11 +333,13 @@
     {
       "id": "hc25-cierre-prueba",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-06",
       "hora": "20:00",
       "caption": "Dos pacientes, sin tarjeta, sin vencimiento.\n\nLa versión de prueba tiene todas las funciones: historia clínica cifrada, agenda, facturación ARCA, reportes y copias de seguridad. No es una demo recortada.\n\nCargá dos pacientes reales y usala un mes entero. Si te ordena la semana, seguís. Si no, la desinstalás y los datos quedan en tu computadora.\n\nhcarg.com.ar 🌿\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc25_cierre.jpg"
+      "archivo": "hc25_cierre.jpg",
+      "publicado_en": "2026-10-06T21:58:08-03:00",
+      "media_id": "17946601005341331"
     },
     {
       "id": "hc26-que-no-escribir",
