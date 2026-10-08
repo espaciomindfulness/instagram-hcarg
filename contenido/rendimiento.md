@@ -1,6 +1,6 @@
 # Rendimiento de @hcarg.app
 
-Medido el 07/10/2026 a las 23:29. 37 seguidores al momento de medir.
+Medido el 07/10/2026 a las 23:32. 37 seguidores al momento de medir.
 
 `% base` es el alcance como porcentaje de tus seguidores. Por debajo de 100% la publicacion ni siquiera llego a toda tu gente; muy por encima, Instagram la mostro a desconocidos.
 
