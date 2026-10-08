@@ -344,7 +344,7 @@
     {
       "id": "hc26-que-no-escribir",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-08",
       "hora": "09:00",
       "caption": "Cuatro cosas que conviene NO escribir en una historia clínica.\n\nNo porque estén prohibidas, sino porque el día que alguien más la lee —un colega, un juez, el propio paciente— se vuelven en contra 👉 deslizá.\n\nLa primera es la más común: «manipulador», «resistente», «poco colaborativo». Son conclusiones tuyas escritas como si fueran hechos. Describí la conducta que observaste y dejá que el criterio clínico se sostenga solo.\n\nY la cuarta es la que más caro sale: no escribir nada durante tres semanas. Sin registro no podés fundamentar por qué hiciste lo que hiciste.\n\nEsto es orientación general, no asesoramiento legal. Ante un caso concreto, consultá con tu colegio profesional o con un abogado.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
@@ -355,7 +355,9 @@
         "hc26_escribir_4.jpg",
         "hc26_escribir_5.jpg",
         "hc26_escribir_6.jpg"
-      ]
+      ],
+      "publicado_en": "2026-10-08T11:50:45-03:00",
+      "media_id": "18099311744642666"
     },
     {
       "id": "hc27-cuanto-guardar",
