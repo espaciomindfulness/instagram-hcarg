@@ -362,11 +362,13 @@
     {
       "id": "hc27-cuanto-guardar",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-10",
       "hora": "20:00",
       "caption": "¿Cuánto tiempo hay que guardar una historia clínica?\n\nLa ley 26.529 habla de diez años desde la última actuación.\n\nDiez años. Pensalo en papel: mudanzas, cajas, humedad, el altillo de la casa de tus viejos. Y la obligación sigue siendo tuya aunque el paciente no vuelva nunca más.\n\nEn digital y cifrado ocupa lo que ocupa un archivo, se copia solo y se encuentra en dos segundos el día que alguien la pide.\n\nEsto es orientación general, no asesoramiento legal. Ante un caso concreto, consultá con tu colegio profesional o con un abogado.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc27_guardar.jpg"
+      "archivo": "hc27_guardar.jpg",
+      "publicado_en": "2026-10-10T21:47:41-03:00",
+      "media_id": "17933600937145584"
     },
     {
       "id": "hc28-oficio-judicial",
