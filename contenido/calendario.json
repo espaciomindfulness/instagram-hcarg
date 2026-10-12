@@ -373,7 +373,7 @@
     {
       "id": "hc28-oficio-judicial",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-12",
       "hora": "09:00",
       "caption": "Te llega un oficio pidiendo la historia clínica de un paciente.\n\nPasa más de lo que uno cree, casi siempre en un divorcio o una causa laboral, y casi siempre agarra desprevenido 👉 deslizá.\n\nLo primero: en la enorme mayoría de los casos sos un tercero al que le piden documentación, no alguien investigado. El apuro y el susto son los que hacen que se cometan errores.\n\nLo segundo, y es donde más se resbala: no es lo mismo que te pidan «la historia clínica completa» que «constancia de tratamiento» o «fechas de atención». Se entrega lo que se pidió. El secreto profesional sigue en pie sobre todo lo demás.\n\nEsto es orientación general, no asesoramiento legal. Ante un caso concreto, consultá con tu colegio profesional o con un abogado.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
@@ -384,7 +384,9 @@
         "hc28_oficio_4.jpg",
         "hc28_oficio_5.jpg",
         "hc28_oficio_6.jpg"
-      ]
+      ],
+      "publicado_en": "2026-10-12T16:44:32-03:00",
+      "media_id": "18117205579956822"
     },
     {
       "id": "hc29-ausencias",
