@@ -1,11 +1,14 @@
 # Rendimiento de @hcarg.app
 
-Medido el 07/10/2026 a las 23:32. 37 seguidores al momento de medir.
+Medido el 12/10/2026 a las 18:20. 37 seguidores al momento de medir.
 
 `% base` es el alcance como porcentaje de tus seguidores. Por debajo de 100% la publicacion ni siquiera llego a toda tu gente; muy por encima, Instagram la mostro a desconocidos.
 
 | Fecha | Tipo | Publicacion | Alcance | % base | Guard. | Comp. | Interac. | Segs. |
 |---|---|---|---:|---:|---:|---:|---:|---:|
+| 2026-10-12 | carrusel | Te llega un oficio pidiendo la historia clínic… | 1 | 3% | 0 | 0 | 0 | 0 |
+| 2026-10-11 | imagen | ¿Cuánto tiempo hay que guardar una historia cl… | 4 | 11% | 0 | 0 | 0 | 0 |
+| 2026-10-08 | carrusel | Cuatro cosas que conviene NO escribir en una h… | 53 | 143% | 0 | 1 | 3 | 0 |
 | 2026-10-07 | imagen | Dos pacientes, sin tarjeta, sin vencimiento. | 5 | 14% | 0 | 0 | 1 | 0 |
 | 2026-10-04 | imagen | Si algo no funciona, me escribís a mí. | 6 | 16% | 1 | 0 | 1 | 0 |
 | 2026-10-03 | carrusel | Cómo es un día con HC ARG, de principio a fin. | 6 | 16% | 0 | 0 | 0 | 0 |
@@ -23,21 +26,18 @@ Medido el 07/10/2026 a las 23:32. 37 seguidores al momento de medir.
 | 2026-09-09 | carrusel | Todo tu consultorio en un solo lugar. | 5 | 14% | 0 | 0 | 1 | 0 |
 | 2026-09-06 | imagen | ¿Qué pasa si mañana se te rompe la computadora? | 5 | 14% | 0 | 0 | 1 | 0 |
 | 2026-09-05 | carrusel | Cinco señales de que tu sistema de historias c… | 9 | 24% | 0 | 0 | 3 | 0 |
-| 2026-09-02 | imagen | ¿Cuánto facturaste este año? | 6 | 16% | 0 | 0 | 2 | 0 |
-| 2026-08-31 | imagen | Probalo gratis con dos pacientes. | 4 | 11% | 0 | 0 | 0 | 0 |
-| 2026-08-29 | carrusel | La Ley 26.529, en criollo. | 9 | 24% | 0 | 0 | 0 | 0 |
 
 ## Resumen
 
-- Alcance promedio: **6** cuentas (17% de tu base).
+- Alcance promedio: **8** cuentas (22% de tu base).
 - Seguidores ganados en estas 20 publicaciones: **0**.
 
 Alcance promedio por formato:
 
-- **carrusel**: 8 (7 publicaciones)
-- **imagen**: 5 (13 publicaciones)
+- **carrusel**: 13 (8 publicaciones)
+- **imagen**: 5 (12 publicaciones)
 
-La que mas lejos llego: «La confidencialidad no se rompe por un hacker.» (carrusel, 15 cuentas).
+La que mas lejos llego: «Cuatro cosas que conviene NO escribir en una h…» (carrusel, 53 cuentas).
 
 ## Seguidores dia por dia
 
