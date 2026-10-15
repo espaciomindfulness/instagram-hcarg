@@ -391,11 +391,13 @@
     {
       "id": "hc29-ausencias",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-14",
       "hora": "20:00",
       "caption": "«Perdón, hoy no voy a poder» — media hora antes.\n\nEse turno no se recupera. Y la conversación sobre qué pasa cuando eso ocurre es de las que más se posterga, porque incomoda.\n\nPero postergarla la vuelve peor: cuando la tenés que tener ya pasó algo, y entonces parece un reclamo personal en vez de un encuadre.\n\nConviene que esté escrita y conversada en la primera sesión, junto con el resto del encuadre. No es una cuestión de plata: es parte del setting.\n\n¿Vos cómo lo manejás? Me interesa leerlo 👇\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc29_ausencias.jpg"
+      "archivo": "hc29_ausencias.jpg",
+      "publicado_en": "2026-10-14T21:24:05-03:00",
+      "media_id": "17913844560521447"
     },
     {
       "id": "hc30-como-anotar",
