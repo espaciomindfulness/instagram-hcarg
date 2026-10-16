@@ -402,7 +402,7 @@
     {
       "id": "hc30-como-anotar",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-16",
       "hora": "09:00",
       "caption": "Un formato para anotar la sesión en dos minutos.\n\nSi te quedás mirando la pantalla sin saber por dónde empezar, el problema no es tu memoria: es que no tenés un molde 👉 deslizá.\n\nCuatro campos: qué trajo, qué observaste, qué hiciste, por dónde seguir.\n\nEl tercero es el que casi nadie escribe y el único que después explica por qué el tratamiento fue por donde fue. Y el cuarto es un regalo para vos del futuro: te evita empezar preguntando «¿en qué habíamos quedado?».\n\nGuardátelo para tenerlo a mano esta semana 🌿\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
@@ -413,7 +413,9 @@
         "hc30_anotar_4.jpg",
         "hc30_anotar_5.jpg",
         "hc30_anotar_6.jpg"
-      ]
+      ],
+      "publicado_en": "2026-10-16T13:30:02-03:00",
+      "media_id": "17933043408411190"
     },
     {
       "id": "hc31-backup",
