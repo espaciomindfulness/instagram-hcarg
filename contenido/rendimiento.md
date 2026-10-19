@@ -1,13 +1,16 @@
 # Rendimiento de @hcarg.app
 
-Medido el 12/10/2026 a las 18:20. 37 seguidores al momento de medir.
+Medido el 19/10/2026 a las 15:46. 37 seguidores al momento de medir.
 
 `% base` es el alcance como porcentaje de tus seguidores. Por debajo de 100% la publicacion ni siquiera llego a toda tu gente; muy por encima, Instagram la mostro a desconocidos.
 
 | Fecha | Tipo | Publicacion | Alcance | % base | Guard. | Comp. | Interac. | Segs. |
 |---|---|---|---:|---:|---:|---:|---:|---:|
-| 2026-10-12 | carrusel | Te llega un oficio pidiendo la historia clínic… | 1 | 3% | 0 | 0 | 0 | 0 |
-| 2026-10-11 | imagen | ¿Cuánto tiempo hay que guardar una historia cl… | 4 | 11% | 0 | 0 | 0 | 0 |
+| 2026-10-19 | imagen | Si mañana se te rompe la notebook, ¿qué perdés? | 2 | 5% | 0 | 0 | 1 | 0 |
+| 2026-10-16 | carrusel | Un formato para anotar la sesión en dos minuto… | 5 | 14% | 0 | 0 | 0 | 0 |
+| 2026-10-15 | imagen | «Perdón, hoy no voy a poder» — media hora ante… | 4 | 11% | 0 | 0 | 0 | 0 |
+| 2026-10-12 | carrusel | Te llega un oficio pidiendo la historia clínic… | 10 | 27% | 0 | 0 | 0 | 0 |
+| 2026-10-11 | imagen | ¿Cuánto tiempo hay que guardar una historia cl… | 5 | 14% | 0 | 0 | 0 | 0 |
 | 2026-10-08 | carrusel | Cuatro cosas que conviene NO escribir en una h… | 53 | 143% | 0 | 1 | 3 | 0 |
 | 2026-10-07 | imagen | Dos pacientes, sin tarjeta, sin vencimiento. | 5 | 14% | 0 | 0 | 1 | 0 |
 | 2026-10-04 | imagen | Si algo no funciona, me escribís a mí. | 6 | 16% | 1 | 0 | 1 | 0 |
@@ -23,9 +26,6 @@ Medido el 12/10/2026 a las 18:20. 37 seguidores al momento de medir.
 | 2026-09-14 | imagen | Lo construí porque lo necesitaba yo. | 5 | 14% | 0 | 0 | 1 | 0 |
 | 2026-09-13 | carrusel | Cifrado, explicado sin tecnicismos. | 5 | 14% | 0 | 0 | 2 | 0 |
 | 2026-09-10 | imagen | Un cuaderno, un Drive, un WhatsApp y una plani… | 4 | 11% | 0 | 0 | 1 | 0 |
-| 2026-09-09 | carrusel | Todo tu consultorio en un solo lugar. | 5 | 14% | 0 | 0 | 1 | 0 |
-| 2026-09-06 | imagen | ¿Qué pasa si mañana se te rompe la computadora? | 5 | 14% | 0 | 0 | 1 | 0 |
-| 2026-09-05 | carrusel | Cinco señales de que tu sistema de historias c… | 9 | 24% | 0 | 0 | 3 | 0 |
 
 ## Resumen
 
@@ -34,8 +34,8 @@ Medido el 12/10/2026 a las 18:20. 37 seguidores al momento de medir.
 
 Alcance promedio por formato:
 
-- **carrusel**: 13 (8 publicaciones)
-- **imagen**: 5 (12 publicaciones)
+- **carrusel**: 15 (7 publicaciones)
+- **imagen**: 5 (13 publicaciones)
 
 La que mas lejos llego: «Cuatro cosas que conviene NO escribir en una h…» (carrusel, 53 cuentas).
 
