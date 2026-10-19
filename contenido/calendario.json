@@ -420,11 +420,13 @@
     {
       "id": "hc31-backup",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-18",
       "hora": "20:00",
       "caption": "Si mañana se te rompe la notebook, ¿qué perdés?\n\nNo es una hipótesis rara. Un disco que muere, un café volcado, un robo en el consultorio. Le pasa a alguien todos los días.\n\nSi la respuesta es «todo» o «no sé», eso es lo primero que hay que resolver — antes que cambiar de sistema, antes que ordenar la agenda, antes que cualquier otra mejora.\n\nY una segunda pregunta, más incómoda: si tenés copia de seguridad, ¿alguna vez la restauraste? Una copia que nunca se probó es una copia que no sabés si sirve.\n\nEn HC ARG las copias son automáticas y verificadas. hcarg.com.ar\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc31_backup.jpg"
+      "archivo": "hc31_backup.jpg",
+      "publicado_en": "2026-10-18T21:24:41-03:00",
+      "media_id": "18100290167418054"
     },
     {
       "id": "hc32-consentimiento",
