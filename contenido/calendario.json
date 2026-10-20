@@ -431,7 +431,7 @@
     {
       "id": "hc32-consentimiento",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-20",
       "hora": "09:00",
       "caption": "Qué tendría que decir un consentimiento informado, más allá de la firma.\n\nCuatro puntos 👉 deslizá.\n\nEl segundo es el que más se omite y el más importante: los límites del secreto profesional. Decir de entrada en qué situaciones podrías tener que informar evita tener que explicarlo justo en el peor momento posible.\n\nY el tercero cada vez lo preguntan más: dónde quedan sus datos y quién puede acceder. Tener la respuesta lista transmite seriedad antes de que empiece el tratamiento.\n\nEsto es orientación general, no asesoramiento legal. Ante un caso concreto, consultá con tu colegio profesional o con un abogado.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
@@ -442,7 +442,9 @@
         "hc32_consent_4.jpg",
         "hc32_consent_5.jpg",
         "hc32_consent_6.jpg"
-      ]
+      ],
+      "publicado_en": "2026-10-20T09:02:51-03:00",
+      "media_id": "18115743419025756"
     },
     {
       "id": "hc33-facturar",
