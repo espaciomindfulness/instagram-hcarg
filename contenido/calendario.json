@@ -449,11 +449,13 @@
     {
       "id": "hc33-facturar",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-22",
       "hora": "20:00",
       "caption": "El fin de mes, en una tarde menos.\n\nLa app arma las Factura C, se conecta con ARCA y trae el CAE. Sin volver a cargar lo que ya anotaste sesión por sesión: si marcaste el cobro cuando pasó, la facturación ya está hecha.\n\nLo que antes era un domingo entero con el navegador abierto en tres pestañas.\n\nProbalo gratis con dos pacientes — link en bio.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc33_facturar.jpg"
+      "archivo": "hc33_facturar.jpg",
+      "publicado_en": "2026-10-22T21:31:17-03:00",
+      "media_id": "18479869681114015"
     },
     {
       "id": "hc34-teleconsulta",
