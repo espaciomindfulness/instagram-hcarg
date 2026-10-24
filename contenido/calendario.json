@@ -460,7 +460,7 @@
     {
       "id": "hc34-teleconsulta",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-24",
       "hora": "09:00",
       "caption": "Atender por videollamada no es atender en el consultorio con otra pantalla.\n\nTres cosas que cambian, y una que no 👉 deslizá.\n\nLa primera: el encuadre que antes daba el espacio ahora hay que construirlo con palabras. Dónde está cada uno, qué pasa si se corta, quién más hay en la casa. Si no se acuerda, se improvisa — y se improvisa mal.\n\nY la que no cambia: el registro. Una sesión por videollamada es una sesión, y va a la historia clínica con la misma responsabilidad.\n\nEsto es orientación general, no asesoramiento legal. Ante un caso concreto, consultá con tu colegio profesional o con un abogado.\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
@@ -470,7 +470,9 @@
         "hc34_tele_3.jpg",
         "hc34_tele_4.jpg",
         "hc34_tele_5.jpg"
-      ]
+      ],
+      "publicado_en": "2026-10-24T09:10:27-03:00",
+      "media_id": "17972852022171050"
     },
     {
       "id": "hc35-primer-contacto",
