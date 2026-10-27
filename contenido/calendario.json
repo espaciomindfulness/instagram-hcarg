@@ -477,11 +477,13 @@
     {
       "id": "hc35-primer-contacto",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-26",
       "hora": "20:00",
       "caption": "Ese mensaje de WhatsApp que llega un domingo a la noche.\n\nTres preguntas antes de agendar:\n\n· ¿Qué te trae?\n· ¿Estás en tratamiento con alguien más?\n· ¿Hay algo urgente?\n\nDos minutos ahí te ahorran una primera sesión entera de reacomodar expectativas — o te evitan tomar un caso que no era para vos.\n\nLa tercera además es de cuidado, no de filtro: si hay urgencia, esa persona necesita otra cosa antes que un turno para dentro de diez días 🌿\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
-      "archivo": "hc35_contacto.jpg"
+      "archivo": "hc35_contacto.jpg",
+      "publicado_en": "2026-10-26T21:20:04-03:00",
+      "media_id": "17955720561270303"
     },
     {
       "id": "hc36-cerrar-anio",
