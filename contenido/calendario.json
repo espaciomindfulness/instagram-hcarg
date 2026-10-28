@@ -488,7 +488,7 @@
     {
       "id": "hc36-cerrar-anio",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-28",
       "hora": "09:00",
       "caption": "Cinco cosas para revisar en tu consultorio ahora, no en diciembre.\n\nEn diciembre ya no hay tiempo: hay cierres, fiestas y ganas de que termine 👉 deslizá.\n\nLa segunda duele: agarrá lo que facturaste este año y dividilo por las horas que le dedicaste. Todas — sesión, administración, facturar el domingo. Ese número, y no tu tarifa, es lo que tendría que ordenar tus decisiones del año que viene.\n\nY la quinta es la que más se posterga: el mejor momento para cambiar de sistema es enero, con la agenda vacía. En marzo ya estás corriendo y todo queda para el año que viene otra vez.\n\nGuardátelo y volvé en noviembre 🌿\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
@@ -500,7 +500,9 @@
         "hc36_cierre_5.jpg",
         "hc36_cierre_6.jpg",
         "hc36_cierre_7.jpg"
-      ]
+      ],
+      "publicado_en": "2026-10-28T10:26:38-03:00",
+      "media_id": "18178567468447690"
     },
     {
       "id": "hc37-pregunta-abierta",
