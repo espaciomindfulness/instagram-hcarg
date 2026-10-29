@@ -1,10 +1,15 @@
 name: Publicar en Instagram
 
 on:
-  schedule:
-    # Corre cada 30 minutos. El script decide si hay algo que publicar
-    # segun contenido/calendario.json (hora de Argentina).
-    - cron: "*/30 * * * *"
+  # CUENTA EN PAUSA desde el 2026-10-28 (ver PAUSA.md). El cron esta apagado
+  # a proposito: dos meses y medio publicando dia por medio no movieron la
+  # cuenta de 37 seguidores, y el tiempo rinde mas en las otras dos.
+  #
+  # Los dos ultimos posteos (30/10 y 01/11) se disparan a mano con
+  # "Run workflow". Para reactivar la cuenta, descomentar el cron.
+  #
+  # schedule:
+  #   - cron: "*/30 * * * *"
   workflow_dispatch:
     inputs:
       simulacro:
