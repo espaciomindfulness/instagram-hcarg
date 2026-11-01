@@ -507,7 +507,7 @@
     {
       "id": "hc37-pregunta-abierta",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "borrador",
       "fecha": "2026-10-30",
       "hora": "20:00",
       "caption": "Una pregunta, y me interesa de verdad la respuesta:\n\n¿Qué es lo que más te cuesta de la parte administrativa del consultorio?\n\nFacturar a fin de mes. Escribir las sesiones. Coordinar turnos por WhatsApp. Perseguir cobros. Encontrar ese dato de hace dos años que sabés que anotaste en algún lado.\n\nLeo todas las respuestas. Varias de las funciones que tiene hoy HC ARG salieron de charlas así con colegas, y las próximas van a salir de acá 👇\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
@@ -516,11 +516,29 @@
     {
       "id": "hc18-exportar-pdf",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "borrador",
       "fecha": "2026-11-01",
       "hora": "09:00",
       "caption": "La historia clínica completa, en un PDF.\n\nOrdenada, cronológica, con tus datos profesionales. Lista para entregarle al paciente que la pide o para presentar donde te la reclamen.\n\nDos clics. Lo que con papel es una tarde entera de fotocopias y de rezar para que no falte ninguna hoja.\n\nhcarg.com.ar\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
       "archivo": "hc18_exportar.jpg"
+    },
+    {
+      "id": "ad-a-riesgo",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-11-01",
+      "hora": "12:00",
+      "archivo": "ad_a_riesgo.jpg",
+      "caption": "Lo que no conviene escribir en una historia clínica.\n\nJuicios de valor sobre el paciente: «manipulador», «resistente». Datos de terceros con nombre y apellido. Un diagnóstico tirado al pasar en la segunda sesión. Tres semanas sin anotar nada.\n\nNinguno de los cuatro se nota mientras la historia la leés solo vos. Se notan el día que la lee alguien más: un colega, un juez, el propio paciente.\n\nHC ARG es una historia clínica digital para psicólogos argentinos: cifrada en tu computadora —no en la nube—, con agenda, facturación ARCA y copias de seguridad verificadas.\n\nDos pacientes gratis, sin tarjeta y sin vencimiento.\n\n👉 hcarg.com.ar\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG"
+    },
+    {
+      "id": "ad-b-producto",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-11-03",
+      "hora": "12:00",
+      "archivo": "ad_b_producto.jpg",
+      "caption": "Tu historia clínica no tiene por qué vivir en un cuaderno ni en la nube de otro.\n\nHC ARG guarda todo cifrado en tu propia computadora. Vos tenés la llave y nadie más: ni nosotros.\n\nHC ARG es una historia clínica digital para psicólogos argentinos: cifrada en tu computadora —no en la nube—, con agenda, facturación ARCA y copias de seguridad verificadas.\n\nDos pacientes gratis, sin tarjeta y sin vencimiento.\n\n👉 hcarg.com.ar\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG"
     }
   ]
 }
