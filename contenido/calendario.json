@@ -536,11 +536,13 @@
     {
       "id": "ad-b-producto",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-11-03",
       "hora": "12:00",
       "archivo": "ad_b_producto.jpg",
-      "caption": "Tu historia clínica no tiene por qué vivir en un cuaderno ni en la nube de otro.\n\nHC ARG guarda todo cifrado en tu propia computadora. Vos tenés la llave y nadie más: ni nosotros.\n\nHC ARG es una historia clínica digital para psicólogos argentinos: cifrada en tu computadora —no en la nube—, con agenda, facturación ARCA y copias de seguridad verificadas.\n\nDos pacientes gratis, sin tarjeta y sin vencimiento.\n\n👉 hcarg.com.ar\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG"
+      "caption": "Tu historia clínica no tiene por qué vivir en un cuaderno ni en la nube de otro.\n\nHC ARG guarda todo cifrado en tu propia computadora. Vos tenés la llave y nadie más: ni nosotros.\n\nHC ARG es una historia clínica digital para psicólogos argentinos: cifrada en tu computadora —no en la nube—, con agenda, facturación ARCA y copias de seguridad verificadas.\n\nDos pacientes gratis, sin tarjeta y sin vencimiento.\n\n👉 hcarg.com.ar\n\n#Psicologos #PsicologiaArgentina #HistoriaClinica #ConsultorioPsicologico #PsicologosArgentina #SaludMental #GestionDeConsultorio #HCARG",
+      "publicado_en": "2026-11-03T14:57:32-03:00",
+      "media_id": "18508862419096924"
     }
   ]
 }
