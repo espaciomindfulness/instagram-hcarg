@@ -7,6 +7,14 @@ on:
   # la campania, volver a comentarlo.
   schedule:
     - cron: "*/30 * * * *"
+
+  # Tambien al cambiar el calendario: el cron de GitHub se dispara cada varias
+  # horas y no sirve para que algo salga a una hora pensada. El bot firma sus
+  # commits con [skip ci], asi que no se dispara a si mismo.
+  push:
+    paths:
+      - "contenido/calendario.json"
+
   workflow_dispatch:
     inputs:
       simulacro:
